@@ -1,0 +1,3 @@
+rootProject.name = 'ReactEffect'
+
+include ':app'
